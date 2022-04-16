@@ -1,0 +1,24 @@
+# 1) list nó có thể chứa mọi kiểu dữ liệu
+
+# 2) quy  tắc bước làm  
+# buoc 1 
+#nếu đề cho list 
+# list = [2,3,1,2]
+#nếu đề yêu cầu tự nhập  
+#list = [int(i) for i in str(giatri)]
+
+#buoc2 
+#tạo một biến theo yêu cầu đề bài
+#bien = int(input("yeu cau de bai:  "))
+
+#buoc3 
+#sử dụng các hàm trong lít
+#hc thuộc càng tốt 
+#lên "https://www.w3schools.com/python/" sẽ đầy đủ nhưng bản anh
+
+#buoc 4 
+#in ra màn hình
+
+#lưu ý bước làm này hãy hiểu đừng hc vẹt vì sẽ có vài bài nó khác 
+#dấu "#" những dòng này ko liên quan đến bài
+#chuc moi nguoi thi tot.
